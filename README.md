@@ -4,7 +4,7 @@ A small lua debugging tool
 I commissioned to steamport#2763 to write this.
 
 ## build instructions
-unzip tcc, its a self extracting archive
+unzip tcc
 
 run compile.bat
 
