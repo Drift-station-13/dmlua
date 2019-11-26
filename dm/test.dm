@@ -1,0 +1,5 @@
+/world/New()
+	extern_print("hello world, im extern printing 1\n")
+	world.log << call_lua("test", list("a" = " test"))
+	world.log <<  call_lua("test", list("a" = "test 2"))
+	extern_print("hello world, im extern printing 2\n")
